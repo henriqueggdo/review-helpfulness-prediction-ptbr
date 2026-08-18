@@ -16,7 +16,6 @@ The results indicate that transformer-based models outperform handcrafted featur
 ## Repository Structure
 - notebooks/: preprocessing, training and analysis notebooks.
 - monograph/: undergraduate thesis document (in Brazilian Portuguese).
-- results/: the model trained for the Sub-symbolic method.
 
 ## Dataset
 This work uses the [SteamBR](https://github.com/germanojorge/SteamBR) dataset of Brazilian Portuguese Steam reviews.
